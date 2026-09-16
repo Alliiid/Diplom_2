@@ -40,3 +40,4 @@ build/
 allure-results/
 allure-report/
 .allure/
+.idea/
